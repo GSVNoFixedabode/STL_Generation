@@ -10,4 +10,6 @@ Powershell script does the following:
  
 Note: Blank lines will be 'printed' at this stage rather than centering the text if there's only one line of name text.
 
-This was created when a request for 1000 individual permanent nametags was made. Doing all 1000 by hand was too daunting, so a more efficient workflow written.
+This was created when a request for 1000 individual permanent nametags was made. Doing all 1000 by hand was too daunting, so a more efficient workflow written. 
+
+The blank STL nametag here is just as an example - you can use any similar STL file, and just reposition the text a bit in the OpenSCAD script.
